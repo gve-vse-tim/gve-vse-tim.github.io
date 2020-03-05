@@ -1,4 +1,20 @@
-theme: jekyll-theme-minimal
-title: Tim Miller, GVE VCSE Data Center
-description: GitHub Repos for projects related to work at Cisco as a Data Center Virtual Consulting Systems Engineer in Global Virtual Engineering.
-show_download: "false"
+theme: minima
+
+title: Tim Miller, GVE TSA Data Center
+author:
+  name: Tim Miller
+
+description: GitHub blog posts and repositories for projects related to work at Cisco as a Data Center Technical Solutions Architect in Global Virtual Engineering.
+
+show_download: false
+show_excerpts: true
+
+minima:
+  social_links:
+    twitter: gve_vse_tim
+    github: gve-vse-tim
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
